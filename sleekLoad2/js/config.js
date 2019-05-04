@@ -100,7 +100,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"57.Alay COOP Sunucu",
+"57.Alay Askeri Roleplay Sunucu",
 "Bizi sectiginiz icin tesekkurler.",
 "Discord ailemize katilip olup bitenlerden haberdar olabilirsiniz."
 ];
