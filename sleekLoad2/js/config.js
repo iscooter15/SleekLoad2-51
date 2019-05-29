@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "57.Alay Roleplay";
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -99,8 +99,9 @@ var l_musicVolume = 45;
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
-var l_messages = [
+var l_messages = [	
 "57.Alay Askeri Roleplay Sunucu",
+"Sunucuya yeni katıldıysanız yükleme uzun sürebilir",
 "Bizi sectiginiz icin tesekkurler.",
 "Discord ailemize katilip olup bitenlerden haberdar olabilirsiniz."
 ];
